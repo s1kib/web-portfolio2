@@ -19,9 +19,9 @@ span {
 .half-section {
     width: 40%;
     float: left;
-    margin: 10px ;
-    margin-left: 120px;
-    margin-top: 50px;
+    margin-left: 5% ;
+    padding: 2%;
+    
   
 
 
@@ -75,11 +75,13 @@ section{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, lightsalmon, tomato);
     border-image-slice: 1;
+    padding: 5px;
 }
 #baby-wev{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, purple, tomato);
     border-image-slice: 1;
+    padding: 2px;
 }
 footer{
     text-align: center;
